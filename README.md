@@ -19,4 +19,6 @@ Determine key statistical data about the month of June and December, and compare
 Information based on comparing the months June and December in Oahu, Hawaii across all years (01/01/2010 – 08/23/2017), and across all nine weather stations.<br/>
 
 ![June](https://github.com/hillarykrumbholz/Surfs_Up/blob/master/Images/June.png)<br/>
-![December](https://github.com/hillarykrumbholz/Surfs_Up/blob/master/Images/December.png)
+![December](https://github.com/hillarykrumbholz/Surfs_Up/blob/master/Images/December.png)<br/>
+
+In depth analysis and findings can be found at the botton of the [Climate Analysis Jupyter NB](https://github.com/hillarykrumbholz/Surfs_Up/blob/master/climate_analysis.ipynb)link. 
