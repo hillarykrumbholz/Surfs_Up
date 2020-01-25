@@ -16,6 +16,7 @@ Gather data on the seasons of Oahu and determine whether the seasons could affec
 Determine key statistical data about the month of June and December, and compare the findings. Then make recommendations for further analysis.
 
 ## Challenge Summary
-Information based on comparing the months June and December in Oahu, Hawaii across all years (01/01/2010 – 08/23/2017), and across all nine weather stations.
-![June](https://github.com/hillarykrumbholz/Surfs_Up/blob/master/Images/June.png)
+Information based on comparing the months June and December in Oahu, Hawaii across all years (01/01/2010 – 08/23/2017), and across all nine weather stations.<br/>
+
+![June](https://github.com/hillarykrumbholz/Surfs_Up/blob/master/Images/June.png)<br/>
 ![December](https://github.com/hillarykrumbholz/Surfs_Up/blob/master/Images/December.png)
